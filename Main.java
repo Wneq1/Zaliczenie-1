@@ -22,6 +22,7 @@ class Main {
         System.out.println();
   }
 
+  
   public static int []ReversTab(int [] tab){
 int[] revTab = Arrays.copyOf(tab, tab.length);
         int i = 0;
